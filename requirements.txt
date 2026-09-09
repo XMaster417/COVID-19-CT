@@ -10,3 +10,4 @@ matplotlib
 segmentation-models-pytorch
 tqdm
 Pillow
+notebook
