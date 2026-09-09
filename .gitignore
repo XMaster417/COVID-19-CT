@@ -219,3 +219,8 @@ __marimo__/
 
 # token
 .kaggle/
+
+# Archivos generados
+Unet_efficientnet*
+Unet-efficientnet*
+Unet*
