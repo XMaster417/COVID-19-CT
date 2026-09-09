@@ -1,0 +1,12 @@
+kagglehub
+torch
+torchvision
+scipy
+opencv-python
+albumentations
+numpy
+pandas
+matplotlib
+segmentation-models-pytorch
+tqdm
+Pillow
