@@ -167,6 +167,7 @@ Los principales resultados son:
 ## Archivos principales
 
 - `main.ipynb`: configuración local/Colab, descarga de datos, preprocesamiento, entrenamiento, evaluación y predicción.
+- `MEJORA_SEGMENTACION.md`: explicación de la mejora, sus funciones, riesgos, controles y criterios de validación.
 - `requirements.txt`: dependencias de Python.
 - `.env`: credencial local de Kaggle; no está versionada.
 - `sub.csv`: archivo de predicciones con formato para envío a Kaggle.
